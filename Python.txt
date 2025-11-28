@@ -11,7 +11,7 @@ for index in range(N):
     l.append(element)
 
 print(l)
-print(0)
+
 
 '''Input string: PYTHO.COTS
 Output Char:T
